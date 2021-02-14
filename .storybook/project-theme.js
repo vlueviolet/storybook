@@ -34,5 +34,5 @@ export default create({
   inputBorderRadius: 4,
 
   brandTitle: 'vlueviolet storybook'
-  brandImage: './logo.png',
+  // brandImage: './logo.png',
 });
